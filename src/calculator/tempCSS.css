@@ -1,0 +1,10 @@
+.button{
+    -fx-background-color: red;
+    -fx-fit-to-height: 400px;
+    -fx-fit-to-width: 436px;
+
+}
+
+.button:hover{
+    -fx-background-color: rgba(190,35,32,0.75);
+}
